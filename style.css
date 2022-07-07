@@ -1,0 +1,18 @@
+body { 
+    background-color: rgba(0, 0, 0, 0.856);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table{
+	margin-top: 50px;
+	text-align: center;
+	background: #FFD580;
+	color: rgb(2, 0, 0);
+}
+
+#show th, #show td{
+	padding: 20px;
+}
+
+#btna td input{
+	width: 100%;
+}
